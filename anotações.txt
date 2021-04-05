@@ -1,3 +1,2 @@
--> alinhar texto
--> ajeitar posicionamento da imagem dos trabalhos
--> ajustes na seção de trabalhos
+-> definir se imagens dos projetos serão gifs ou imagens estáticas
+-> inserir uma linha, um detalhe, entre um projeto e outro 

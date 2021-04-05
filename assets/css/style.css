@@ -28,21 +28,26 @@
     flex-wrap: wrap;
 }
 
-#trabalhos .image {
-    order: 1;
-    border-radius: 0;
-    width: 40%;
+.container {
+    padding-bottom: 36px;
+    padding-top: 24px;
 }
 
-#trabalhos .image .img {
-    border-radius: 0;
-    width: 40%;
+.conteudo {
+    width: 50%;
+    margin: 0;
+    float: left;
+    padding-left: 2em;
+    padding-top: 0.5em;
 }
 
-#trabalhos .conteudo {
-    order: 2;
-    width: 100%;
-    padding-left: 36px;
+.conteudo p {
+    float: left;
+}
+
+.projeto {
+    text-decoration: none;
+    bottom: 0;
 }
 
 footer {
