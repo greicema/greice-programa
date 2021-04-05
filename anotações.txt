@@ -1,2 +1,5 @@
 -> definir se imagens dos projetos serão gifs ou imagens estáticas
 -> inserir uma linha, um detalhe, entre um projeto e outro 
+-> paleta de cores
+-> definição de fontes e estilização 
+-> adição de detalhes na aparência

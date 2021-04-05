@@ -1,3 +1,30 @@
+#header {
+    background: #2e3842;
+    height: 3em;
+    left: 0;
+    line-height: 3em;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 10000;
+}
+
+#header h1 {
+    height: inherit;
+    left: 1.25em;
+    line-height: inherit;
+    position: absolute;
+    top: 0;
+}
+
+#header h1 a {
+    border: 0;
+    display: block;
+    height: inherit;
+    line-height: inherit;
+    text-decoration: none;
+}
+
 .navbar {
     padding-left: 32px;
     top: 16px;
@@ -5,11 +32,25 @@
 }
 
 .first-page {
-    height: 100vh;
+    display: flex;
     background-color: rgb(86, 86, 219);
+    flex-direction: column;
+    justify-content: center;
+    cursor: default;
+    height: 100vh;
+    min-height: 35em;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+}
+
+.first-page h3 a {
+    position: relative;
+    padding-top: 1000px;
 }
 
 #biografia {
+    padding: 6em 0 4em 0;
     background-color: bisque;
     height: 100vh;
 }
