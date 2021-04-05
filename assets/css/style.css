@@ -1,0 +1,51 @@
+.navbar {
+    padding-left: 32px;
+    top: 16px;
+    /*deixar escondido antes da primeira rolagem de página*/
+}
+
+.first-page {
+    height: 100vh;
+    background-color: rgb(86, 86, 219);
+}
+
+#biografia {
+    background-color: bisque;
+    height: 100vh;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.rounded-circle {
+    margin-bottom: 18px;
+}
+
+#trabalhos {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#trabalhos .image {
+    order: 1;
+    border-radius: 0;
+    width: 40%;
+}
+
+#trabalhos .image .img {
+    border-radius: 0;
+    width: 40%;
+}
+
+#trabalhos .conteudo {
+    order: 2;
+    width: 100%;
+    padding-left: 36px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
