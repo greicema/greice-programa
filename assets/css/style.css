@@ -74,21 +74,11 @@
     padding-top: 24px;
 }
 
-.conteudo {
-    width: 50%;
-    margin: 0;
-    float: left;
-    padding-left: 2em;
-    padding-top: 0.5em;
-}
-
-.conteudo p {
-    float: left;
-}
-
 .projeto {
     text-decoration: none;
     bottom: 0;
+    color: rgb(82, 70, 255);
+    /*paleta de cores*/
 }
 
 footer {
