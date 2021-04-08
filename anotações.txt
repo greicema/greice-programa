@@ -4,4 +4,5 @@
 -> definição de fontes e estilização 
 -> adição de detalhes na aparência
 -> organização das informações dos projetos
--> ajeitar exibição dos trabalhos em telas menores
+-> Adicionar linguagens utilizadas e nome dos donos dos códigos(?) 
+-> provável problema das fontes
