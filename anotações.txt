@@ -6,3 +6,4 @@
 -> organização das informações dos projetos
 -> Adicionar linguagens utilizadas e nome dos donos dos códigos(?) 
 -> provável problema das fontes
+-> otimizar exibição dos projetos (melhorar espaçamento entre um e outro)
