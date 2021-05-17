@@ -49,6 +49,11 @@
     padding-top: 1000px;
 }
 
+.arrow:hover {
+    color: chartreuse;
+    transform: scale(1);
+}
+
 #biografia {
     padding: 6em 0 4em 0;
     background-color: bisque;
