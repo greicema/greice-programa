@@ -52,10 +52,30 @@
     transform: scale(1);
 }
 
-#biografia {
-    padding: 6em 0 4em 0;
+#biography {
+    padding-top: 60px;
+}
+
+#biography {
     background-color: bisque;
-    height: 100vh;
+}
+
+.social {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.social li {
+    display: inline-block;
+}
+
+.social i {
+    color: black;
+}
+
+.social i:hover {
+    transform: scale(1.1);
 }
 
 .margin {
