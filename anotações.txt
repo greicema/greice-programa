@@ -6,10 +6,9 @@
 -> otimizar exibição dos projetos (melhorar espaçamento entre um e outro)
 
 Organizando:
-Header -> Responsividade cagada; acrescentar detalhes de :hover; cores; linkar cada seção em seu respectivo nome
-Página inicial -> Terá?
-Sobre mim -> Organizar exibição; cores
-Habilidades -> Criar seção, definiir estilo; cores 
+Header -> Responsividade cagada; acrescentar detalhes de :hover; cores; deixar menos largo; criar scroll top 
+Página inicial -> exibição bagunçada em outros dispositivos
+Sobre mim -> Organizar exibição; cores; elementos não estão devidamente centralizados
+Habilidades -> definiir estilo; cores; pensar em como inserir as linguagens 
 Projetos -> Definir se imagens serão gifs ou imagens estáticas; centralizar; definir os que realmente vão; gerar links
-Contato -> Criar seção; cores; passar os ícones das redes sociais para a seção de contato
 Footer -> Cores
