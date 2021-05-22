@@ -31,25 +31,23 @@
     /*deixar escondido antes da primeira rolagem de página*/
 }
 
-.first-page {
+#first-page {
     display: flex;
-    background-color: rgb(86, 86, 219);
-    flex-direction: column;
-    justify-content: center;
-    cursor: default;
+    background: url(/img/code-page.jpg);
     height: 100vh;
-    min-height: 35em;
-    overflow: hidden;
-    position: relative;
-    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
-.first-page h3 a {
+#first-page h2 {
     position: relative;
-    padding-top: 1000px;
+    color: white;
 }
 
-.arrow:hover {
+#arrow:hover {
     color: chartreuse;
     transform: scale(1);
 }
