@@ -7,11 +7,10 @@ img {
     image-rendering: pixelated;
 }
 
-
-/*body {
+body {
     display: grid;
     place-items: center;
-}*/
+}
 
 #header {
     background: #2e3842;
