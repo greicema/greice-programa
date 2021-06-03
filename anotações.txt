@@ -7,7 +7,7 @@
 
 Organizando:
 Header -> Responsividade cagada; acrescentar detalhes de :hover; cores; deixar menos largo; criar scroll top 
-Página inicial -> exibição bagunçada em outros dispositivos
+Página inicial -> exibição bagunçada em outros dispositivos; ajustar animação de digitação
 Sobre mim -> Organizar exibição; cores; elementos não estão devidamente centralizados
 Habilidades -> definiir estilo; cores; pensar em como inserir as linguagens 
 Projetos -> Definir se imagens serão gifs ou imagens estáticas; centralizar; definir os que realmente vão; gerar links
