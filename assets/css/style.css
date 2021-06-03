@@ -9,6 +9,8 @@ img {
 
 body {
     place-items: center;
+    margin: 0;
+    padding: 0;
 }
 
 #header {
